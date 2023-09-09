@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "616896228864",
+    "project_id": "ar2687340mateocaselles",
+    "storage_bucket": "ar2687340mateocaselles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616896228864:android:c667d19536c2351dabf2e5",
+        "android_client_info": {
+          "package_name": "co.edu.sena.ar2687340mateocaselles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616896228864-hkumq40adksofare3qf3kd3psmm6o0pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhrHNsHc_agu-z7fo1IFLZIp1-7Z5_0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616896228864-hkumq40adksofare3qf3kd3psmm6o0pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616896228864:android:e46cd2895cb3545babf2e5",
+        "android_client_info": {
+          "package_name": "com.example.ar2687340mateocaselles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616896228864-hkumq40adksofare3qf3kd3psmm6o0pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhrHNsHc_agu-z7fo1IFLZIp1-7Z5_0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616896228864-hkumq40adksofare3qf3kd3psmm6o0pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
